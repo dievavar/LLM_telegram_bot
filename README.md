@@ -37,7 +37,7 @@
 ### Клонирование репозитория
 
 ```bash
-git clone https://github.com/dievavar/quizmentor.git
+git clone https://github.com/dievavar/LLM_telegram_bot.git
 cd LLM_telegram_bot
 ```
 
