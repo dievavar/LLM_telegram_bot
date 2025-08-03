@@ -38,7 +38,7 @@ user_original_texts = {}
 
 @dp.message(CommandStart())
 async def cmd_start(message: Message):
-    photo_path = "/Users/varvara/Downloads/phi3_telegram_bot/lama.jpeg"
+    photo_path = "lama.jpeg"
     photo = FSInputFile(photo_path)
 
     caption = (f"""
@@ -394,3 +394,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
