@@ -1,7 +1,5 @@
 
 # QuizMentor — Умный Телеграм-Бот для Викторин
-
-![QuizMentor Banner](https://user-images.githubusercontent.com/твой-путь-к-изображению/banner.png)  
 *Преврати обучение в игру!*
 
 ---
