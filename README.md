@@ -38,7 +38,7 @@
 
 ```bash
 git clone https://github.com/dievavar/quizmentor.git
-cd quizmentor
+cd LLM_telegram_bot
 ```
 
 ### Установка зависимостей
